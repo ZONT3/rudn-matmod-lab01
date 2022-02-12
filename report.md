@@ -271,7 +271,9 @@ git log --all
     ![Screenshot 2](assets/scr02.png)
     ![Screenshot 3](assets/scr03.png)
 5. Сделал `push` ![Screenshot 4](assets/scr04.png)
-6. Дописал отчет и залил на github.
+6. Дописал отчет и залил на `github`.
+7. Установил `pandoc` и `pandoc-crossref` для переобразования `md` в `pdf` и `docx`
+8. Преобразовал md в docx и pdf
 
 # Выводы
 
