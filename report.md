@@ -266,6 +266,16 @@ git log --all
 
 1. Создал в папке `lab01` файл `report.md`, в котором пишу отчет
 2. Создал здесь же файл `README.md` для описания будущего репозитория
+3. Инициализировал репозиторий, сделал коммиты ![Screenshot 1](assets/scr01.png)
+4. Создал SSH-ключ
+    ![Screenshot 2](assets/scr02.png)
+    ![Screenshot 3](assets/scr03.png)
+5. Сделал `push` ![Screenshot 4](assets/scr04.png)
+6. Дописал отчет и залил на github.
 
 # Выводы
 
+Ознакомился с `git`, `GitHub` и `Markdown`.
+Научился пользоваться разметкой `Markdown`
+Научился использовать `git`, его ветки и такие команды,
+как `add`, `commit`, `checkout`, `branch`, `reset`, `revert`, `remote`, `merge`
