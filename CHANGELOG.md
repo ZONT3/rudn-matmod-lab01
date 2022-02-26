@@ -1,4 +1,13 @@
-# 1.1.0 (2022-02-26)
+# 1.3.0 (2022-02-26)
+
+### Bug Fixes
+
+
+### Features
+
+- Done lab03 ([c14dfd5](https://github.com/ZONT3/rudn-matmod-labs/commit/c14dfd55f27b559d6bdea4ee613a21866da3af34))
+- Readme now contains list of labs ([050e001](https://github.com/ZONT3/rudn-matmod-labs/commit/050e00151c2c0980fd16a883808bda0f1dce6b14))
+- Created .gitignore ([7bcb228](https://github.com/ZONT3/rudn-matmod-labs/commit/7bcb22825c6c78414babf2cffa68499ced0cc8c5))
 
 ### Bug Fixes
 
