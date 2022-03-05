@@ -7,3 +7,4 @@
 
 - [Git, Markdown](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab01)
 - [Модель боевых действий](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab03)
+- [Модель гармонических колебаний](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab04)
