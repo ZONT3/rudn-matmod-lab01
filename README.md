@@ -9,3 +9,4 @@
 - [Модель боевых действий](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab03)
 - [Модель гармонических колебаний](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab04)
 - [Хищник-жертва](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab05)
+- [Эпидемия](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab06)
