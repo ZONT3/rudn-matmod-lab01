@@ -1,3 +1,9 @@
+# 1.7.0 (2022-03-26)
+
+### Features
+
+- Done lab07 ([91bff29](https://github.com/ZONT3/rudn-matmod-labs/commit/91bff2925aabe2a179a7447d99048f4930b3ccb0))
+- 
 # 1.6.0 (2022-03-19)
 
 ### Features
