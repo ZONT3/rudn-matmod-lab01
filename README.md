@@ -11,3 +11,4 @@
 - [Хищник-жертва](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab05)
 - [Эпидемия](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab06)
 - [Эффективность рекламы](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab07)
+- [Конкуренция двух фирм](https://github.com/ZONT3/rudn-matmod-labs/tree/master/lab08)
